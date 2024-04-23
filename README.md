@@ -1,6 +1,6 @@
 # Projeto One Piece
 Um projeto de teste com um arquivo README 🚀
-minha primeira interface de página criada, uma interface com textos apresentativo de alguns dos personagens de One Peice apenas contando um pouco sobre cada um deles. 
+minha primeira interface de página criada, uma interface com textos apresentativo de alguns dos personagens de "One Piece" (Série de manga) apenas contando um pouco sobre cada um deles. 
 
 ## Tecnologias utilizadas
 - HTML
